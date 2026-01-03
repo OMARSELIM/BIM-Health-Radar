@@ -1,0 +1,5 @@
+{
+  "name": "BIM Health Radar",
+  "description": "لوحة تحكم ذكية لمراقبة صحة ملفات BIM والتنبؤ بأحجامها باستخدام الذكاء الاصطناعي",
+  "requestFramePermissions": []
+}
